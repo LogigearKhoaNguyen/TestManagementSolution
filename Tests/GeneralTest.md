@@ -1,14 +1,14 @@
 ## Test Case ID
-* N/A
+* G001
 ## Test Script Location
 * N/A
 ## Test Case Name
-* N/A
+* DownloadChromeDriver
 ## Test Case Description
-* N/A
-* N/A
+* Download Chrome Driver
 ## Pre-conditions
-* N/A
+* Internet connection
+* Chrome is installed on the device
 ## Post-conditions
 * N/A
 ## Date Tested (mm/dd/yy hh:mm:ss)
@@ -19,11 +19,11 @@
 ## Test Steps
 1. Step 1
 	* Step Details
-		* N/A
+		* Check Chrome version and download corresponding Chrome driver
 	* Test Data
 		* N/A
 	* Expected Results
-		* N/A
+		* Corresponding chrome driver version is download successfully
 	* Actual Results
 		* N/A
 	* Pass / Fail / Not executed / Suspended
